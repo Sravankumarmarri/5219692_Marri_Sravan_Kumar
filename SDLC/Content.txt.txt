@@ -1,0 +1,43 @@
+Applied SDLC, Agile, and Testing Methodology
+
+Software Development Life Cycle (SDLC):
+⦁	Understood what SDLC is, why it is important, and how it is implemented in real-world projects.
+
+⦁	Explored different phases of SDLC:
+
+Requirement Gathering:
+	Learned to differentiate between Functional and Non-Functional requirements.
+	Techniques for collecting and analyzing stakeholder requirements.
+
+Design:
+	Gained knowledge in UML diagrams: structural (Class, Component) and behavioral (Use Case, Sequence).
+	Applied design principles for efficient and scalable architecture.
+Development:
+	Understood best coding practices, environment setup, version control, and team collaboration.
+Testing:
+	Gained an overview of integrated testing processes during and after development.
+Deployment:
+	Learned about deployment strategies, environments (Dev, QA, Prod), and release management.
+Maintenance:
+	Understood bug fixing, patches, updates, and feature enhancement post-deployment.
+
+SDLC Models studied in detail:
+
+	Waterfall Model – Linear and sequential.
+
+	V-Model – Verification and validation model.
+
+	Spiral Model – Risk-driven iterative model.
+
+	Iterative Model – Repetition with feedback.
+
+	Agile Model – Flexible and collaborative development.
+
+Real-world applications:
+
+	Matched SDLC models with scenarios (e.g., Waterfall for construction, Agile for software startups).
+
+	Understood the advantages and limitations of each model.
+
+
+
