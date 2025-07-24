@@ -11,4 +11,9 @@ Completed the "Agile for Beginners" course on Great Learning. Gained a solid und
 
 
 
+
+I have finished my Git course in Simply learn platform and i have shared my certificate here.
+
+
+
 ![image_alt](https://github.com/Sravankumarmarri/5219692_Marri_Sravan_Kumar/blob/bb18a4f9787f8a03e5e0ea14273478d64fed3066/GIT%20Certificate%20.png)
