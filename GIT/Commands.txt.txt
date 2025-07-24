@@ -1,0 +1,80 @@
+GIT Commands that i have learnt :
+
+Basic Configuration:
+
+git config --global user.name "our Name"
+
+git config --global user.email "our_email" 
+
+Repository Setup
+
+git init
+
+git clone 
+
+Staging & Committing
+
+git status 
+
+git add 
+
+git add .
+ 
+git commit -m "message"
+
+Branching & Merging
+
+git branch 
+
+git branch <branch_name> 
+
+git checkout <branch_name> 
+
+git checkout -b <branch_name> 
+
+git merge <branch_name> 
+
+git rebase <branch> 
+
+Remote Repositories
+
+git remote -v
+
+git remote add origin <url> 
+
+git push -u origin <branch> 
+
+git push 
+
+git pull 
+
+git fetch 
+
+git log .
+
+git log --oneline
+
+git show <commit_hash> 
+
+git diff 
+
+git diff --staged 
+
+git tag 
+
+git tag <tag_name> 
+
+git push origin <tag_name> 
+
+git stash 
+
+git stash apply 
+
+git stash pop 
+
+git stash list 
+
+
+
+
+
