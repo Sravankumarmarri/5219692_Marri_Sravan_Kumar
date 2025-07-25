@@ -12,7 +12,7 @@ Completed the "Agile for Beginners" course on Great Learning. Gained a solid und
 
 
 
-I have finished my Git course in Simply learn platform and i have shared my certificate here.
+I have finished my Git course in Simpli learn platform and i have shared my certificate here.
 
 
 
