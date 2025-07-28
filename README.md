@@ -7,7 +7,7 @@ Completed the "Agile for Beginners" course on Great Learning. Gained a solid und
 
 
 
-![image_alt](https://github.com/Sravankumarmarri/5219692_Marri_Sravan_Kumar/blob/2e57f8f50e141e434ef74e42e5e6a6575e6bd789/SDLC/Quiz%20Completion.png)
+![image_alt]("C:\Users\Sravan kumar\Desktop\Stepin\5219692_Marri_Sravan_Kumar\SDLC\5219692_ Marri Sravan kumar_Quiz.png")
 
 
 
