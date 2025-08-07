@@ -6,7 +6,7 @@ def Permutetwoarrays(k,A,B):
             return "NO"
     return "YES"
 q=int(input())
-for _ in range(q):
+for i in range(q):
     n,k=map(int,input().split())
     A=list(map(int,input().split()))
     B=list(map(int,input().split()))
