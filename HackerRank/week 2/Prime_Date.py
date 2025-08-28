@@ -45,7 +45,7 @@ def findPrimeDates(d1, m1, y1, d2, m2, y2):
             if m1 > 12:
                 y1 =  y1 + 1
                 m1 = 1
-    return result;
+    return result
 
 for i in range(1, 15):
     month.append(31)
